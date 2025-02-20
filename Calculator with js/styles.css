@@ -6,9 +6,6 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #b35b20;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
     background-image: url('https://www.shutterstock.com/shutterstock/photos/1727015101/display_1500/stock-photo-abstract-numbers-background-mathematical-numbers-concept-d-rendering-1727015101.jpg');
     background-size: contain;
     margin: 0;
