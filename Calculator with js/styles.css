@@ -17,7 +17,7 @@ body {
     width: 260px;
     height: 150px;
     background-size: cover;
-    mask-image: url('https://www.logodesign.net/logo-text/sassy-text-6557ld.png?nwm=1&nws=1&industry=calculator&txt_keyword=All');
+    mask-image: url('https://img.icons8.com/color/512/apple-calculator.png');
     mask-size: contain;
     mask-repeat: no-repeat;
     mask-position: center;
@@ -87,13 +87,16 @@ button {
     border: none;
     border-radius: 5px;
     background-color: #5713e9;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
     color: #20232a;
     cursor: pointer;
     transition: transform 0.2s;
 }
 
 button.operator {
-    background-color:  #ee144a;
+    background-color: #ee144a;
     color: #fff;
 }
 
