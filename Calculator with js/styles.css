@@ -28,7 +28,7 @@ body {
     border: 2px solid #61dafb;
     padding: 10px;
     border-radius: 10px;
-    background-color: #20232a;
+    background-color: #7293e1;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
     margin-top: 20px;
 }
@@ -51,7 +51,7 @@ body {
     padding: 10px;
     border: none;
     border-radius: 5px;
-    background-color: #444b55;
+    background-color: #bcd3f4;
     color: #61dafb;
     animation: glow 1s ease-in-out infinite alternate;
     transition: all 0.2s ease-in-out;
@@ -86,19 +86,19 @@ button {
     font-size: 18px;
     border: none;
     border-radius: 5px;
-    background-color: #61dafb;
+    background-color: #5713e9;
     color: #20232a;
     cursor: pointer;
     transition: transform 0.2s;
 }
 
 button.operator {
-    background-color: #ff8c00;
+    background-color:  #ee144a;
     color: #fff;
 }
 
 button.equals {
-    background-color: #00b300;
+    background-color: #89b300;
     color: #fff;
 }
 
